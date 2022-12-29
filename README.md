@@ -1,4 +1,4 @@
-[Feedback App](https://wondrous-torrone-7b91f2.netlify.app/){:target="_blank"}
+[Feedback App](https://wondrous-torrone-7b91f2.netlify.app/)
 
 
 ### `npm start`
